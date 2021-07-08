@@ -7,4 +7,6 @@
  <h3> All these questions among others have been answered in this project using various EDA techniques and visualization techniques. </h3> 
  <h3> Besides, examining all these factors, I have also built an ML model using Logistic Regression to predict the chances of a particular student getting place providing all the necessary information as input. The model gave an accuracy of about 91%. </h3>
 
-Dataset can be accessed <a href="https://www.kaggle.com/benroshan/factors-affecting-campus-placement">here.
+Dataset can be accessed [here]("https://www.kaggle.com/benroshan/factors-affecting-campus-placement")
+
+**_Thank you!!_**
